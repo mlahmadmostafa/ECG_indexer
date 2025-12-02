@@ -1,0 +1,8 @@
+tool name,tool description,tool path,tutorial,notes,keywords
+Git,Distributed version control system for tracking changes in source code,/usr/bin/git,https://git-scm.com/doc,Essential for team collaboration and code history,git,vcs,version control
+Visual Studio Code,Lightweight source code editor with rich ecosystem support,C:\Program Files\Microsoft VS Code\Code.exe,https://code.visualstudio.com/docs,Recommended for Python and Web Development,editor,ide,microsoft,coding
+Docker,Platform for developing shipping and running applications in containers,/usr/local/bin/docker,https://docker-curriculum.com/,Requires virtualization to be enabled in BIOS,devops,containers,virtualization
+Python 3.9,High-level programming language for general-purpose programming,C:\Python39\python.exe,https://docs.python.org/3/tutorial/,Ensure PIP is installed and added to PATH,python,scripting,backend,data science
+Jira,Issue tracking and project management software,https://jira.company-domain.com,https://www.atlassian.com/software/jira/guides,Used for sprint planning and bug tracking,management,agile,scrum,planning
+Postman,API platform for building and using APIs,C:\Users\AppData\Local\Postman\Postman.exe,https://learning.postman.com/,Great for testing REST endpoints before integration,api,testing,http,rest
+Jenkins,Open source automation server,/var/lib/jenkins,https://www.jenkins.io/doc/,CI/CD pipeline configuration required,cicd,automation,build,deployment
